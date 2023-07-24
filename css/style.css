@@ -1,0 +1,139 @@
+/*Halaman Login utama*/
+.navbar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.navbar .navbar-brand {
+	font-family: 'Viga', sans-serif;
+	font-size: 20px;
+}
+
+.nav-item {
+
+}
+
+.nav-item .nav-link {
+	font-family: 'Viga', sans-serif;
+	font-size: 20px;
+}
+
+/*form login*/
+input {
+  border-radius: 10px;;
+}
+
+
+.tulisan_login{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.kotak_login {
+  width: 350px;
+  background: white;
+  margin: 80px auto;
+  padding: 30px 20px;
+  border-radius: 45px;
+  margin-top: 15px;
+}
+
+label {
+  font-size: 15pt;
+  font-family: 'Viga', sans-serif;
+}
+
+.form_login {
+  box-sizing : border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.tombol_login {
+  background: #46de4b;
+  color: white;
+  font-size: 11pt;
+  font-family: 'Viga', sans-serif;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+}
+
+.lupa {
+	font-family: 'Viga', sans-serif;
+	font-size: 13px;
+	margin-top: 7px;
+	text-align: center;
+}
+
+/*Halaman Registrasi Utama*/
+.judul {
+	text-align: center;
+	font-family: 'Viga', sans-serif;
+	font-size: 35px;
+	margin-top: 40px;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+
+/*Halaman index2 Utama*/
+.tambah {
+	text-align: center;
+	font-family: 'Viga', sans-serif;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+
+input{
+	font-family: 'Viga', sans-serif;
+	margin-bottom: 25px;	
+}
+
+table {
+	margin-bottom: 45px;
+	margin-top: 30px;
+	font-family: 'Viga', sans-serif;
+}
+
+.keyword {
+	text-align: center;
+}
+
+.table-list table {
+	text-align: center;
+}
+
+  /*Footer dekstop*/
+footer {
+    background-color: #2d2d27;
+    padding-bottom: 10px;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 50px;
+    line-height: 25px;
+    color: white;
+}
+
+
+.footer-bottom {
+    text-align: center;
+    color: #A9A9A9;
+    font-size: 12px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+/* akhir footer for dekstop */
+
+
+/*Utility*/
+.tombol {
+	border-radius: 10px;
+	background-color: green;
+	color: white;
+	font-family: 'Viga', sans-serif;
+}
+
+

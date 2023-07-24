@@ -1,0 +1,13 @@
+// amabil data dari tabel siswa / query siswa
+
+$result = mysqli_query($conn, "SELECT * FROM siswa");
+
+// ambil data (fetch) object dari result
+// mysqli_fetch_row() mengembalikan array numerik
+// mysqli_fetch_assoc() mengmbalikan array associative
+// msyqli_fetch_array() mengembalikan keduanya
+// mysqli_fetch_object() mengemblikan 
+
+// while($siswa = mysqli_fetch_assoc($result) ) {
+// var_dump($siswa);
+// }
